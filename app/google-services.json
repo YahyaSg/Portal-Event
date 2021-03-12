@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973308983903",
+    "firebase_url": "https://portalevent-27058.firebaseio.com",
+    "project_id": "portalevent-27058",
+    "storage_bucket": "portalevent-27058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973308983903:android:1aef5c51f4f64d6dfc39ea",
+        "android_client_info": {
+          "package_name": "com.bunglon2.portalevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973308983903-6q1gmm3knd4jf0kcvtfnkmbl7k46kqa5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bunglon2.portalevent",
+            "certificate_hash": "b9a959f8c7711eaa545704fd3979008699490e12"
+          }
+        },
+        {
+          "client_id": "973308983903-5e5n7m7269qtkmsbh8kuru5vptcavhj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIoUbVwfQTS251NNHzN6zP9FTiKplOEZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973308983903-5e5n7m7269qtkmsbh8kuru5vptcavhj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PortalEvent</string>
+    <string name="deskripsi">Description</string>
+    <string name="kategori">Kategori</string>
+    <string name="tempat">Tempat</string>
+    <string name="jam">Jam</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="nama">Nama Event</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="email_label">Email</string>
+    <string name="login">Login</string>
+</resources>
